@@ -7,4 +7,6 @@ timestamp: 2020.04.23_11:42:47_AEST
 
 just saying hi !
 
-Hi from Rachel
+- Hi from Rachel
+- Hi from Alberto
+
